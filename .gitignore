@@ -1,5 +1,5 @@
-/.venv/
+venv/
 __pycache__/
 .env
 tempCodeRunnerFile.py
-/.vscode/
+.vscode/
